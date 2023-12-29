@@ -48,6 +48,10 @@
 
 ## 주요기능 소개
 
+### 서비스 아키텍처
+![image](https://github.com/Convergence-Project/.github/assets/94158097/e23e25a1-fc30-4209-8104-8eb68c58f194)
+
+### AI 기능
 ![image](https://github.com/Convergence-Project/.github/assets/94158097/d13456b7-af8e-4c4d-8d74-ba1a13ab4830)
 
 ### 문제 생성
